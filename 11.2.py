@@ -30,6 +30,6 @@ def modify_entry(num, n):
 
 total = 0
 for num in nums:
-    total += modify_entry(num, n=6)
+    total += modify_entry(num, n=75)
 
 print(total)
